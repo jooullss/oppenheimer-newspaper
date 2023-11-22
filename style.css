@@ -1,6 +1,6 @@
 @font-face {
     font-family: headerfont;
-    src: url("/fonts/Chomsky.otf") format("opentype");
+    src: url("/Chomsky.otf") format("opentype");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@700&family=Bitter:wght@300&family=Gothic+A1:wght@200;900&family=Roboto&family=Roboto+Slab:wght@200&display=swap');
